@@ -11,6 +11,16 @@ Specifications:
 - (6x) LSI/CSI LS7366R Quadrature Decoder (encoder counters/processors).
 
 
+Encoder Fin Model B Rev 1 PCB 2D Rendering
+
+![First Pass PCB of Model B](PCB/Encoder%20Fin%20Multi%20ARM/EncoderFinARM2D.png)
+
+Encoder Fin Model B Rev 1 PCB 3D Rendering
+
+![First Pass PCB of Model B](PCB/Encoder%20Fin%20Multi%20ARM/EncoderFinARM3D.png)
+
+Encoder Fin Multi ARM
+
 Rev 1 PCB
 ![First Pass PCB](PCB/EncoderFin2D.png)
 
