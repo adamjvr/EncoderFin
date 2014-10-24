@@ -156,7 +156,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JDVOVYSF
 
 [Document8]
-DocumentPath=Encoder Fin ARM - MCU KL05 24VQFN.SchDoc
+DocumentPath=Encoder Fin ARM - MCU KL05 TQFP 48.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
