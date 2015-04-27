@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SixAxisEncoderFinARM R1.0.PcbDoc   3/19/2015  4:33:15 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SixAxisEncoderFinARM R1.0.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          12               1.40 Inch (35.64 mm)
+T2        15mil (0.381mm)          Round          61               9.47 Inch (240.62 mm)
+T3        35mil (0.889mm)          Round          67               9.89 Inch (251.18 mm)
+T4        40mil (1.016mm)          Round          2                0.18 Inch (4.52 mm)
+T5        59mil (1.4986mm)         Round          2                0.28 Inch (7.01 mm)
+---------------------------------------------------------------------------
+Totals                                            144              21.22 Inch (538.97 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
